@@ -65,10 +65,6 @@ void deleteMethod(BPTree* bPTree) {
 }
 
 int main() {
-    /*
-		Please have a look at the default schema to get to know about the table
-		Reference - img/database.jpg
-	*/
 
     cout << "\n***Welcome to DATABASE SERVER**\n"
          << endl;
